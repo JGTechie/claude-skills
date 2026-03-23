@@ -1,0 +1,47 @@
+APPLE INC. — EXCERPTED FINANCIAL DATA (ILLUSTRATIVE / DEMO ONLY)
+
+This is a simplified sample for demonstrating the claude-skills prompt templates.
+Do not use for investment decisions.
+
+--- INCOME STATEMENT (FY2025) ---
+
+Total net revenue: $410.0B (prior year: $383.3B, YoY growth: +7.0%)
+
+Revenue by segment:
+  iPhone:       $205.0B  (50.0% of revenue)
+  Services:     $102.5B  (25.0% of revenue)
+  Mac:           $41.0B  (10.0% of revenue)
+  iPad:          $32.8B  ( 8.0% of revenue)
+  Wearables:     $28.7B  ( 7.0% of revenue)
+
+Cost of sales:       $168.1B
+Gross profit:        $241.9B   (gross margin: 59.0%)
+Operating expenses:   $61.5B
+Operating income:    $180.4B   (operating margin: 44.0%)
+Net income:          $150.8B   (net margin: 36.8%)
+
+--- BALANCE SHEET ---
+
+Total assets:              $352.6B
+Total current assets:      $143.6B
+Cash and equivalents:       $29.9B
+Marketable securities:      $30.8B
+Total debt:                $108.0B
+Total current liabilities:  $153.2B
+Shareholders' equity:       $56.9B
+
+--- CASH FLOW ---
+
+Operating cash flow:  $118.3B
+Capital expenditures:  $11.0B
+Free cash flow:       $107.3B
+Dividends paid:        $15.8B
+Share buybacks:        $94.0B
+
+--- KEY RISKS ---
+
+1. Consumer demand sensitivity to macroeconomic conditions
+2. Supply chain concentration in East Asia
+3. Regulatory scrutiny of App Store practices (EU DMA, US antitrust)
+4. Foreign exchange headwinds (strong USD)
+5. Increasing competition in services and wearables

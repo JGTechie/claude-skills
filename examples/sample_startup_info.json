@@ -1,0 +1,11 @@
+{
+  "COMPANY_NAME": "PayFlow",
+  "STAGE": "Seed",
+  "SECTOR": "B2B Payments / Fintech",
+  "ONE_LINER": "Instant cross-border payroll for remote teams",
+  "PROBLEM": "Companies with distributed teams waste 3-5 days and 4-8% in fees on international payroll. Existing solutions are slow, opaque, and built for enterprises — not startups and SMBs.",
+  "SOLUTION": "PayFlow uses local payment rails and real-time FX to deliver same-day payroll in 60+ countries. One API, flat 1% fee, full compliance handled.",
+  "TRACTION": "Live in 12 countries. 140 paying companies. $2.8M ARR, growing 22% MoM. NRR: 135%. Average contract: $1,700/mo.",
+  "TEAM": "CEO: ex-Wise, built their SMB product (0→$50M ARR). CTO: ex-Stripe, led Stripe Connect payments infra. Head of Compliance: 10yr at HSBC global payments.",
+  "FUNDRAISE_ASK": "$3M seed at $15M post-money valuation"
+}
