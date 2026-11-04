@@ -14,6 +14,7 @@ Building AI-powered fintech tools means writing the same boilerplate over and ov
 
 ```
 claude-skills/
+├── skills/           # Reusable SKILL.md packages and reference checklists
 ├── prompts/          # Markdown prompt templates (copy-paste or load programmatically)
 ├── scripts/          # Python scripts using the Anthropic SDK
 ├── notebooks/        # Jupyter notebooks with worked examples
@@ -62,6 +63,16 @@ message = client.messages.create(
 )
 print(message.content[0].text)
 ```
+
+---
+
+## Claude Skills
+
+| Skill | What It Does |
+|---|---|
+| [Verify Financial Model](skills/verify-financial-model/) | Read-only, evidence-backed review of formulas, cash flow, revenue assumptions and outputs, with 12 check modules and cell-level findings. |
+
+This skill is a review procedure, not an autonomous Excel engine or an audit opinion. Workbook access and recalculation depend on the host's available tools. See the [usage guide](skills/verify-financial-model/README.md) and [acceptance-test specifications](skills/verify-financial-model/acceptance-tests.md) before client use.
 
 ---
 
